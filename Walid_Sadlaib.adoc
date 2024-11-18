@@ -1,3 +1,7 @@
 ## Ceci est un fichier AsciiDoc créé par Walid Sadlaib.\nCe fichier est utilisé pour démontrer l'utilisation de Git.
 ### Modification : Ajout de texte supplémentaire par Walid.
+<<<<<<< HEAD
 Modification from dev branch
+=======
+Modification from dev_conflit branch
+>>>>>>> c7af947 (Change in dev_conflit branch)
