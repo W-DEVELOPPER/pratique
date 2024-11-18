@@ -1,2 +1,5 @@
 Modification depuis la branche dev
+<<<<<<< HEAD
 Modification depuis la branche dev_conflit
+=======
+>>>>>>> dev
